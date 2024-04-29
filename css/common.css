@@ -233,7 +233,7 @@ form > button {
 }
 
 #boxes {
-  width: 486px;
+  width: 100%;
   padding: 32px;
   border-radius: 8px;
   background: #f6f6fe;
